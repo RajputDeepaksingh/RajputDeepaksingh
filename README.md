@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Kumar Singh
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning ... GCP
-- 💞️ I’m looking to collaborate on ... Java Backend Development i have very good experience and exposure . Total I have approx 5 years of experience in that 
+- 👀 I’m a Senior Java Backend Engineer with 8+ Years of Experience
+- 🌱 I’m currently Building expertise in Agentic & Generative AI ... 
+- 💞️ I’m looking to collaborate on ... Java Backend Development i have very good experience and exposure . Total I have approx 8+ years of experience in that 
 - 📫 How to reach me ... https://www.linkedin.com/in/rajput-deepak-singh/ and my number +91-8777020180
 
 <!---
